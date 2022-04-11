@@ -12,6 +12,8 @@
 
 > É um projeto para gerenciar as tarefas de uma pessoa durante o dia ou um período de tempo! O usuário pode colocar as tarefas a serem executadas e ir riscando elas conforme for finalizando-as. 
 
+<p align="center">Acesse o projeto clicando <a href="https://todo-app-react-ts-geovanne.vercel.app/"> aqui </a></p>
+
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
@@ -30,9 +32,13 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente das linguagens, dependências e bibliotecas requiridas
 * Você leu o guia relacionado ao projeto
 
-## 🔧 Linguagens usadas no projeto: 
+## 🔧 Tecnologias usadas no projeto: 
 
-<p><a href="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a></p>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Logo do HTML"></img>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Logo do CSS"></img>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Logo do Javascript"></img>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Logo do Typescript"></img>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Logo do React"></img>
 
 ## 🚀 Instalando ToDo APP
 
